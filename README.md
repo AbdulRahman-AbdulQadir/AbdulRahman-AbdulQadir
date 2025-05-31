@@ -1,161 +1,169 @@
 <!--
   ================================
-      GITHUB PROFILE README
+     ALTERNATIVE GITHUB PROFILE README
   ================================
   Save this file as `README.md` in your GitHub profile repo.
-  Replace placeholders (e.g., <your-name>, <your-portfolio-url>) with your actual info.
+  Customize all placeholders (`<...>`) with your own details.
 -->
 
 <div align="center">
-  <!-- 👋 Wave emoji + Greeting -->
-  <h1>👋 Hi there, I’m <your-name> (<your-username>)</h1>
-  <p>🛠️ Backend Django Developer | 🐍 Python Enthusiast | 💻 Freelance Aspirant</p>
+  <!-- Profile Picture -->
+  <img src="https://avatars.githubusercontent.com/<your-username>?s=200" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+  
+  <!-- Greeting & Title -->
+  <h1>Hey there, I’m <your-name> 👋</h1>
+  <p>Backend Developer | Django Specialist | Freelance Enthusiast</p>
 
-  <!-- Badges: replace with your own GitHub stats badges if desired -->
+  <!-- Social Links -->
   <p>
     <a href="https://github.com/<your-username>">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?label=Follow&style=social" />
+      <img src="https://img.shields.io/badge/GitHub-<your-username>-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
     </a>
-    <a href="https://github.com/<your-username>/<your-username>">
-      <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=<your-username>&color=0e75b6&style=flat" />
+    <a href="https://linkedin.com/in/<your-linkedin>">
+      <img src="https://img.shields.io/badge/LinkedIn-<your-linkedin>-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+    <a href="https://twitter.com/<your-twitter-handle>">
+      <img src="https://img.shields.io/badge/Twitter-@<your-twitter-handle>-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
   </p>
 </div>
 
 ---
 
-## 📝 About Me
-- 🔭 I’m currently learning and building Django-based web applications.
-- 🌱 I’m sharpening my skills with **PostgreSQL**, **MySQL**, and **RESTful APIs**.
-- 👯 I’m looking to collaborate on open-source Django projects or freelance gigs.
-- 💬 Ask me about **Django**, **Python**, **Databases**, and **API Integration**.
-- 📫 How to reach me:
-  - ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-  - 💼 LinkedIn: [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)
-  - 🌐 Portfolio: [<your-portfolio-url>](https://<your-portfolio-url>)
+## 🗒️ Who Am I?
+I’m a passionate backend developer with a strong foundation in **Django**, **Python**, and relational databases. Over the past year, I’ve focused on building scalable REST APIs, optimizing database schemas, and integrating third-party services. My ultimate goal is to become a successful freelance Django specialist, delivering robust solutions to clients worldwide.
+
+- 🎓 Bachelor’s in Computer Science (or fill in your highest education)
+- 💼 Aspiring freelance backend developer
+- 🌱 Continuously learning **GraphQL**, **Docker orchestration**, and **CI/CD pipelines**
+- 🏆 I love solving real-world problems through clean, maintainable code
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Core Skills & Tools
 
 <details>
   <summary>Click to expand</summary>
 
-  ### Languages
-  - Python 3.x
-  - SQL (PostgreSQL, MySQL)
+  ### 🐍 Languages & Frameworks
+  - **Python 3.x** (OOP, async, typing)
+  - **Django** (Models, Views, Templates, ORM)
+  - **Django REST Framework** (API design, serializers, viewsets)
+  - **FastAPI** (lightweight microservices, async endpoints)
 
-  ### Frameworks & Libraries
-  - Django (Models, Views, Templates, REST-framework)
-  - Django REST Framework (DRF)
-  - Django Allauth (Authentication)
-  - **Bonus**: Familiarity with FastAPI basics
+  ### 🗄️ Databases
+  - **PostgreSQL** (designing schemas, indexing, migrations)
+  - **MySQL** (query optimization, replication basics)
+  - **SQLite** (local development & testing)
 
-  ### Databases
-  - PostgreSQL
-  - MySQL
-  - SQLite (for local/dev)
+  ### 🛠️ Tools & Platforms
+  - **Git & GitHub** (branching strategies, pull requests, code reviews)
+  - **Docker** (Dockerfiles, Docker Compose for multi-container apps)
+  - **Heroku** / **DigitalOcean** (deploying and hosting Django apps)
+  - **GitHub Actions** (automated testing, CI/CD pipelines)
+  - **Postman** / **Insomnia** (API development & testing)
+  - **Linux (Ubuntu)** (server provisioning, shell scripting)
 
-  ### Frontend (Basics)
-  - HTML5, CSS3, Bootstrap 4/5
-  - JavaScript (ES6)
+  ### 🔧 Libraries & Integrations
+  - **Django Allauth** (authentication flows, social login)
+  - **Celery** (background tasks, scheduled jobs, Redis integration)
+  - **Webpack / NPM** (static file bundling, frontend basics)
+  - **Redis** (caching, task queues)
+  - **Graphene-Django** (GraphQL schemas & resolvers)
 
-  ### Tools & Platforms
-  - Git & GitHub
-  - Docker (basic containerization for local dev)
-  - Virtualenv / Pipenv
-  - Postman / Insomnia (API testing)
-  - Linux (Ubuntu)
-
-  ### Deployment & Hosting
-  - Heroku (Django deployments)
-  - DigitalOcean Droplets (setup & configs)
-  - GitHub Actions (CI/CD basics)
-
-  ### Version Control & Collaboration
-  - Git branching workflows (feature branches, pull requests)
-  - GitHub Project Boards & Issues
+  ### 📊 Other Skills
+  - **RESTful API Design** (versioning, pagination, filtering)
+  - **Unit Testing** (pytest, Django TestCase)
+  - **Security Best Practices** (OWASP awareness, secure settings)
+  - **Agile Methodologies** (Scrum basics, sprint planning)
 
 </details>
 
 ---
 
-## 📂 Highlighted Projects
+## 🚀 Selected Projects
 
-> Below are a few projects I’ve built to reinforce my backend skillset with Django, databases, and REST APIs. You can click on each to view its repository or live demo.
+Below are some of my notable projects. Each one helped me strengthen my backend expertise and working with databases, authentication, and deployment.
 
-1. **Django Blog API**
-   - 🔗 [github.com/<your-username>/django-blog-api](https://github.com/<your-username>/django-blog-api)  
-   - Built a RESTful blog API with **Django REST Framework**, featuring:
-     - Token-based authentication (JWT)
-     - CRUD endpoints for posts, comments, and categories
-     - Pagination, filtering, and search
-   - Technologies: Python 3.9, Django 4.x, DRF, PostgreSQL
+<!-- Project cards with brief descriptions -->
 
-2. **Freelance Invoice Manager**
-   - 🔗 [github.com/<your-username>/invoice-manager](https://github.com/<your-username>/invoice-manager)  
-   - A simple Django app to manage freelance invoices:
-     - User authentication (Django Allauth)
-     - Create, read, update, delete (CRUD) invoices & clients
-     - PDF export of invoices using ReportLab
-   - Technologies: Django 3.x, MySQL, Bootstrap 5, Docker
+<details>
+  <summary>🔽 Click to expand project list</summary>
 
-3. **E-Commerce Backend Prototype**
-   - 🔗 [github.com/<your-username>/ecommerce-backend](https://github.com/<your-username>/ecommerce-backend)  
-   - Prototype of an e-commerce REST API:
-     - User registration, login, and profile management
-     - Product catalog, ordering, and cart endpoints
-     - Admin panel with Django’s built-in admin
-   - Technologies: Django 4.x, DRF, SQLite (dev), PostgreSQL (production), GitHub Actions
+  ### 1. Django Portfolio Website
+  - **Repo:** [github.com/<your-username>/django-portfolio](https://github.com/<your-username>/django-portfolio)
+  - **Tech:** Django, PostgreSQL, Bootstrap 5, GitHub Actions
+  - **Highlights:**
+    - Dynamic project showcase and blog section
+    - Custom admin dashboard with analytics widgets
+    - Deployed on Heroku with automated CI/CD
 
-4. **API Integration: Currency Converter**
-   - 🔗 [github.com/<your-username>/currency-converter-api](https://github.com/<your-username>/currency-converter-api)  
-   - Integrated third-party open APIs (e.g., [Exchange Rates API](https://exchangeratesapi.io)):
-     - Endpoint that returns live currency conversion rates
-     - Caching rate results for up to 12 hours using Redis (Docker)
-   - Technologies: Django, DRF, Redis, Docker Compose
+  ### 2. Task Manager API
+  - **Repo:** [github.com/<your-username>/task-manager-api](https://github.com/<your-username>/task-manager-api)
+  - **Tech:** Django REST Framework, JWT Authentication, Docker
+  - **Highlights:**
+    - User registration, login, and permissions (role-based)
+    - CRUD endpoints for tasks, projects, and teams
+    - Integrated Redis for caching and Celery for background email notifications
+
+  ### 3. Social Connect (OAuth Integration)
+  - **Repo:** [github.com/<your-username>/social-connect](https://github.com/<your-username>/social-connect)
+  - **Tech:** Django Allauth, OAuth2 (Google, GitHub, Facebook)
+  - **Highlights:**
+    - Single-sign-on (SSO) with multiple providers
+    - Custom user profile with avatars and bio
+    - Unit tests covering authentication flows
+
+  ### 4. E-Commerce Backend
+  - **Repo:** [github.com/<your-username>/ecommerce-django](https://github.com/<your-username>/ecommerce-django)
+  - **Tech:** Django, PostgreSQL, Stripe API
+  - **Highlights:**
+    - Product catalog with categories, tags, and search
+    - Shopping cart, orders, and payment integration via Stripe
+    - Email notifications and invoice generation (ReportLab)
+
+  ### 5. Currency & Weather Microservice
+  - **Repo:** [github.com/<your-username>/microservices-demo](https://github.com/<your-username>/microservices-demo)
+  - **Tech:** FastAPI (currency rates), Django (weather data), Docker Compose
+  - **Highlights:**
+    - FastAPI endpoint fetching live exchange rates from external API
+    - Django endpoint fetching weather data and caching results in Redis
+    - All services containerized and orchestrated with Docker Compose
+
+</details>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-<!--
-  You can paste your own GitHub username stats here. Copy the code snippet from:
-  https://github.com/anuraghazra/github-readme-stats
--->
 <div align="center">
-  <a href="https://github.com/<your-username>">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/<your-username>">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <!-- GitHub Streaks & Most Used Languages (optional) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide=Markdown,HTML&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-## 🌟 What I’m Learning & Building
-- Currently diving deeper into **PostgreSQL optimization** (indexes, migrations, migrations history).
-- Exploring **Dockerizing** multi-service Django apps (web + Redis + Postgres stacks).
-- Experimenting with **GraphQL** (Graphene-Django) for more flexible APIs.
+## 🌱 Currently Learning
+- **GraphQL**: Building flexible Django APIs with Graphene
+- **Docker Swarm / Kubernetes**: Orchestrating multi-service deployments
+- **Advanced PostgreSQL**: Partitioning, query tuning, and replication
+- **CI/CD Best Practices**: Improving test coverage, code linting, and automated deployments
 
 ---
 
-## 🤝 Let’s Connect
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/<your-linkedin>">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-<your-linkedin>-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/<your-twitter-handle>">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@<your-twitter-handle>-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
-</p>
+## 📫 Reach Out
+- 📧 **Email:** your.email@example.com  
+- 💼 **LinkedIn:** [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)  
+- 🌐 **Portfolio:** [https://<your-portfolio-url>](https://<your-portfolio-url>)  
+- 📨 **Feel free to DM me on Twitter:** [@<your-twitter-handle>](https://twitter.com/<your-twitter-handle>)
 
 ---
 
 <p align="center">
-  Made with ❤️ using 🐍 Python + 💙 Django
+  Thanks for stopping by! <br/>
+  Made with ❤️ and ☕ using Python & Django
 </p>
