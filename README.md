@@ -12,7 +12,7 @@
     Hello, I’m 
     <img src="abdulrahman_moving.gif" alt="AbdulRahman Moving" width="180" />
   </h1>
-  <p>🧑‍💻 Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
+  <p> Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
 </div>
 
 ---
@@ -81,5 +81,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ using 🐍 Python & 🌐 Django
+  Made with using Python & Django
 </p>
