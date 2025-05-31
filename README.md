@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ using 🐍 Python & 🌐 Django
+  Made with using Python & 🌐 Django
 </p>
