@@ -1,16 +1,8 @@
-<!--
-  ================================
-        COLORFUL GITHUB PROFILE
-  ================================
-  Save this file as `README.md` in the repository named exactly the same as your GitHub username.
-  Replace every <placeholder> with your real information (name, links, etc.).
--->
-
 <div align="center">
-  <!-- Greeting with “moving” name using <marquee> -->
+  <!-- “Moving” name via <marquee> -->
   <h1 style="color:#61DAFB;">
     Hello, I’m 
-    <marquee behavior="alternate" direction="left" scrollamount="5" width="300">
+    <marquee behavior="alternate" scrollamount="5" width="200">
       <strong>AbdulRahman</strong>
     </marquee>
   </h1>
@@ -22,12 +14,8 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <!--
-    Since we can’t zoom on hover in a GitHub README, 
-    each badge itself is static—but they live inside a moving container!
-    Wrapping the entire `<p>` in <marquee> makes all badges float side-to-side.
-  -->
-  <marquee behavior="alternate" direction="right" scrollamount="3" width="100%">
+  <!-- Wrap ALL badges in a marquee so they slide -->
+  <marquee behavior="alternate" scrollamount="3" width="100%">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -86,8 +74,6 @@
     <img src="https://img.shields.io/badge/GitHub-<your-username>-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 <p align="center">
   Made with ❤️ using 🐍 Python & 🌐 Django
