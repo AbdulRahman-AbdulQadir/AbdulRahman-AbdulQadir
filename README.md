@@ -7,48 +7,37 @@
 -->
 
 <div align="center">
-  <!-- Greeting with animated name -->
+  <!-- Greeting with “moving” name using <marquee> -->
   <h1 style="color:#61DAFB;">
-    Hello, I’m <span class="moving-text">AbdulRahman</span>
+    Hello, I’m 
+    <marquee behavior="alternate" direction="left" scrollamount="5" width="300">
+      <strong>AbdulRahman</strong>
+    </marquee>
   </h1>
   <p>🧑‍💻 Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
 </div>
-
-<style>
-  /* 
-   * .moving-text will float up and down continuously 
-   * You can tweak duration, distance, or easing as you like.
-   */
-  .moving-text {
-    display: inline-block;
-    animation: float 3s ease-in-out infinite alternate;
-  }
-
-  @keyframes float {
-    from {
-      transform: translateY(0px);
-    }
-    to {
-      transform: translateY(-10px);
-    }
-  }
-</style>
-
 
 ---
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <!--
+    Since we can’t zoom on hover in a GitHub README, 
+    each badge itself is static—but they live inside a moving container!
+    Wrapping the entire `<p>` in <marquee> makes all badges float side-to-side.
+  -->
+  <marquee behavior="alternate" direction="right" scrollamount="3" width="100%">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </marquee>
 </p>
 
 ---
@@ -101,5 +90,5 @@
 ---
 
 <p align="center">
-  Made with using Python & 🌐 Django
+  Made with ❤️ using 🐍 Python & 🌐 Django
 </p>
