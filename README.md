@@ -7,10 +7,33 @@
 -->
 
 <div align="center">
-  <!-- Greeting -->
-  <h1 style="color:#61DAFB;">👋 Hello, I’m <Your Name></h1>
+  <!-- Greeting with animated name -->
+  <h1 style="color:#61DAFB;">
+    Hello, I’m <span class="moving-text">AbdulRahman</span>
+  </h1>
   <p>🧑‍💻 Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
 </div>
+
+<style>
+  /* 
+   * .moving-text will float up and down continuously 
+   * You can tweak duration, distance, or easing as you like.
+   */
+  .moving-text {
+    display: inline-block;
+    animation: float 3s ease-in-out infinite alternate;
+  }
+
+  @keyframes float {
+    from {
+      transform: translateY(0px);
+    }
+    to {
+      transform: translateY(-10px);
+    }
+  }
+</style>
+
 
 ---
 
