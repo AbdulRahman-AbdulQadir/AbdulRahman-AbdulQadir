@@ -3,14 +3,14 @@
         COLORFUL GITHUB PROFILE
   ================================
   Save this file as `README.md` in the repository named exactly the same as your GitHub username.
-  Replace every <placeholder> with your real information (name, links, etc.).
+  Make sure `abdulrahman_moving.gif` is in the same folder as this README.
 -->
 
 <div align="center">
-  <!-- Greeting with embedded animated GIF -->
+  <!-- Animated name (GIF must be in repo root) -->
   <h1 style="color:#61DAFB;">
     Hello, I’m 
-    <img src="./abdulrahman_moving.gif" alt="AbdulRahman Moving" style="width: auto; height: 60px;" />
+    <img src="abdulrahman_moving.gif" alt="AbdulRahman Moving" width="180" />
   </h1>
   <p>🧑‍💻 Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
 </div>
