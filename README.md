@@ -1,10 +1,16 @@
+<!--
+  ================================
+        COLORFUL GITHUB PROFILE
+  ================================
+  Save this file as `README.md` in the repository named exactly the same as your GitHub username.
+  Replace every <placeholder> with your real information (name, links, etc.).
+-->
+
 <div align="center">
-  <!-- “Moving” name via <marquee> -->
+  <!-- Greeting with embedded animated GIF -->
   <h1 style="color:#61DAFB;">
     Hello, I’m 
-    <marquee behavior="alternate" scrollamount="5" width="200">
-      <strong>AbdulRahman</strong>
-    </marquee>
+    <img src="./abdulrahman_moving.gif" alt="AbdulRahman Moving" style="width: auto; height: 60px;" />
   </h1>
   <p>🧑‍💻 Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
 </div>
@@ -14,18 +20,15 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <!-- Wrap ALL badges in a marquee so they slide -->
-  <marquee behavior="alternate" scrollamount="3" width="100%">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </marquee>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -74,6 +77,8 @@
     <img src="https://img.shields.io/badge/GitHub-<your-username>-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
 
 <p align="center">
   Made with ❤️ using 🐍 Python & 🌐 Django
