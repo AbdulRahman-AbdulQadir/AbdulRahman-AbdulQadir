@@ -39,7 +39,7 @@
       </g>
     </svg>
   </h1>
-  <p> Django Backend Developer | 🚀 Freelance Aspirant | 📚 Always Learning</p>
+  <p>Django Backend Developer | Freelance Aspirant | 📚 Always Learning</p>
 </div>
 
 ---
@@ -47,20 +47,23 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Custom “Py | Python” badge -->
+  <img
+    src="https://img.shields.io/static/v1?label=Py&message=Python&color=306998&labelColor=4B8BBE&style=for-the-badge"
+    alt="Py | Python Badge"
+  />
+  <!-- Custom “My | MySQL” badge -->
+  <img
+    src="https://img.shields.io/static/v1?label=My&message=MySQL&color=005C84&labelColor=4479A1&style=for-the-badge"
+    alt="My | MySQL Badge"
+  />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p>
   <a href="https://github.com/<your-username>/django-blog-api">
