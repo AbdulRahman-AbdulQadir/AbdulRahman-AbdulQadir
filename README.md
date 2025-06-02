@@ -57,8 +57,26 @@
     src="https://img.shields.io/static/v1?label=My&message=MySQL&color=005C84&labelColor=4479A1&style=for-the-badge"
     alt="My | MySQL Badge"
   />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <!-- HTML5 badge -->
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <!-- CSS3 badge -->
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <!-- Django badge -->
+  <img
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django"
+  />
+  <!-- Git badge -->
+  <img
+    src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
 </p>
 
 ---
