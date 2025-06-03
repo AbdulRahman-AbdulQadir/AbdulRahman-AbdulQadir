@@ -71,7 +71,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/<your-username>/ecommerce-backend">
+  <a href="https://github.com/AbdulRahman-AbdulQadir/Django_Team_Store">
     <img src="https://img.shields.io/badge/E-commerce_Backend-FF6F00?style=for-the-badge&logo=stripe&logoColor=white" alt="E-commerce Backend" />
   </a>
   <br>
