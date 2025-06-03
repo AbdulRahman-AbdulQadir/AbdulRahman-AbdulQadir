@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Django_Blog_API-10ED0E?style=for-the-badge&logo=django" alt="Django Blog API" />
   </a>
   <br>
-  A RESTful blog API built with Django REST Framework. Features JWT authentication, CRUD endpoints, pagination, and PostgreSQL integration.
+  comming soon
 </p>
 
 <p>
@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Invoice_Manager-0057B8?style=for-the-badge&logo=django" alt="Invoice Manager" />
   </a>
   <br>
-  A Django app to manage freelance invoices and clients. Includes user auth (Django Allauth), PDF invoice generation (ReportLab), and MySQL.
+  comming soon
 </p>
 
 <p>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/E-commerce_Backend-FF6F00?style=for-the-badge&logo=stripe&logoColor=white" alt="E-commerce Backend" />
   </a>
   <br>
-  Backend for an e-commerce site using Django and Stripe. Implements product catalog, shopping cart, orders, and payment integration.
+  Backend for an e-commerce site using Django and Python. Implements product catalog, shopping cart, orders, and register.
 </p>
 
 ---
