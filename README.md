@@ -7,40 +7,11 @@
 -->
 
 <div align="center">
-  <!-- Animated name using inline SVG -->
-  <h1 style="color:#61DAFB;">
-    Hello, I’m
-    <svg
-      width="180"
-      height="45"
-      viewBox="0 0 400 100"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <g transform="translate(200,50)">
-        <text
-          x="0"
-          y="0"
-          font-family="sans-serif"
-          font-size="32"
-          fill="#61DAFB"
-          text-anchor="middle"
-          dominant-baseline="middle"
-        >
-          AbdulRahman
-          <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="0"
-            to="360"
-            dur="4s"
-            repeatCount="indefinite"
-          />
-        </text>
-      </g>
-    </svg>
-  </h1>
+  <img src="https://github.com/AbdulRahman-AbdulQadir/AbdulRahman-AbdulQadir/blob/main/giphy.gif" alt="AbdulRahman GIF" width="250" />
+  <h1 style="color:#61DAFB;">Hello, I’m AbdulRahman</h1>
   <p>Django Backend Developer | Freelance Aspirant | 📚 Always Learning</p>
 </div>
+
 
 ---
 
