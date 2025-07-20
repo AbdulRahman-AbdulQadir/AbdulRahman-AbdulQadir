@@ -84,7 +84,8 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/abdulrahmanabdul045@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+
   </a>
   <a href="https://linkedin.com/in/<your-linkedin>">
     <img src="https://img.shields.io/badge/LinkedIn-<your-linkedin>-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
