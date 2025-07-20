@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/E-commerce_Backend-FF6F00?style=for-the-badge&logo=stripe&logoColor=white" alt="E-commerce Backend" />
   </a>
   <br>
-  Backend for an e-commerce site using Django and Python. Implements product catalog, shopping cart, orders, and register.
+  Backend for an e-commerce site using Django and Python. Implements product catalog, shopping cart, orders, and register. order comming soon.
 </p>
 
 ---
