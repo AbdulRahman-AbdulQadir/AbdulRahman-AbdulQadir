@@ -9,12 +9,31 @@
 <div align="center">
   <img src="https://github.com/AbdulRahman-AbdulQadir/AbdulRahman-AbdulQadir/blob/main/giphy.gif" alt="AbdulRahman GIF" width="250" />
   <h1 style="color:#61DAFB;">Hello, I’m AbdulRahman</h1>
-  <p>Django Backend Developer | Freelance Aspirant | 📚 Always Learning</p>
+  <p>Django Backend Developer |📚 Always Learning</p>
 </div>
 
-
+<strong> Descriptions <strong/>
 ---
+My name is Abdulrahman. I have been learning Python for about a year and a half and feel comfortable using it, Alhamdulillah. I have hands-on experience with Django through various projects and am eager to deepen my understanding of it further. 
 
+While I haven’t started freelancing yet, I’m planning to explore this path soon. I am good in HTML and CSS from extensive practical use, especially HTML, and am working to improve my JavaScript skills later. I have not yet worked with APIs in my projects, so that’s an area I’m aiming to learn soon.
+
+Familiar skills⬇️
+
+**Skills** 
+
+- **Languages & Frameworks:** Python, Django, HTML, CSS
+- **Database:** MySQL
+- **Tools:** AI, Git & GitHub
+- **Django Concepts:**
+  - Authentication
+  - Permissions
+  - ORM (Object Relational Mapping)
+  - Views & Models
+  - Static Files Management
+  - URL Routing
+  - Django Template Language
+- **Soft Skills:** Problem-solving
 ## 🛠️ Skills
 
 <p align="center">
