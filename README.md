@@ -34,6 +34,10 @@ Familiar skills⬇️
   - URL Routing
   - Django Template Language
 - **Soft Skills:** Problem-solving
+- 
+  ## 📜 Here is my certificate:
+
+<img src="certificate.jpg" alt="Certificate" width="700" />
 ## 🛠️ Skills
 
 <p align="center">
